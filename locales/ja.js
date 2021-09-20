@@ -243,7 +243,7 @@
 	"new_space": "New Space",
 	"tool_more": "More",
 	"what_is_your_name": "Welcome to %s! Please choose a username.",
-	"lang": "en",
+	"lang": "ja",
 	"landing_title": "Your Whiteboard on the Web.",
 	"landing_claim": "Spacedeck lets you easily combine all kinds of media on virtual whiteboards: Text notes, photos, web links, even videos and audio recordings. ",
 	"landing_example": "People use Spacedeck to organize their ideas, in teams to see whole projects at a glance, or in schools and universities for richer, connected learning experiences.",
